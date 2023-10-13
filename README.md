@@ -1,3 +1,3 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an Amazing App
-- 🌱 I’m currently learning Python, Dart and JS
+- 🌱 I’m currently learning Python, C#, Dart and JS
